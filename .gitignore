@@ -1,0 +1,11 @@
+.gradle
+.idea
+*.log
+*.class
+*Db.*.db
+target
+stacktrace.log
+test/reports
+web-app/plugins
+activemq-data
+
